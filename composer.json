@@ -1,0 +1,12 @@
+{
+    "name": "sudesh/eriser-ecom",
+    "description": "this is the solution for ecomerce",
+    "type": "package",
+    "authors": [
+        {
+            "name": "sudeshkumar147",
+            "email": "sudeshkumar147@gmail.com"
+        }
+    ],
+    "require": {}
+}
