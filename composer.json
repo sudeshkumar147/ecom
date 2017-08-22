@@ -1,7 +1,7 @@
 {
-    "name": "sudesh/eriser-ecom",
+    "name": "eriser/ecomerce",
     "description": "this is the solution for ecomerce",
-	"keywords": ["eriser-ecom", "eriser"],
+	"keywords": ["eriser-ecom", "eriser","ecomerce"],
     "type": "package",
 	"license": "MIT",
     "authors": [
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4" : {
-            "Src\\" : "src/"
+            "Eriser\\Ecomerce" : "src/"
         }
     }
 }
