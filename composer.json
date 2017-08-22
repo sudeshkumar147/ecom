@@ -20,5 +20,14 @@
         "psr-4" : {
             "Eriser\\Ecomerce\\" : "src/"
         }
-    }
+    },
+    "autoload-dev": {
+        
+        "psr-4": {
+            "Eriser\\Tests\\": "tests/"
+        }
+    },
+
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
