@@ -2,6 +2,10 @@
     "name": "eriser/ecomerce",
     "description": "this is the solution for ecomerce",
 	"keywords": ["eriser-ecom", "eriser","ecomerce"],
+    "support": {
+        "issues": "https://github.com/laravel/sudeshkumar147/eriser-ecom/issues",
+        "source": "https://github.com/laravel/sudeshkumar147/eriser-ecom"
+    },
     "type": "package",
 	"license": "MIT",
     "authors": [
@@ -26,6 +30,10 @@
         "psr-4": {
             "Eriser\\Tests\\": "tests/"
         }
+    },
+
+    "config": {
+        "sort-packages": true
     },
 
     "minimum-stability": "dev",

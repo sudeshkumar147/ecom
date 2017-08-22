@@ -1,5 +1,5 @@
 <?php 
-namespace Src;
+namespace Eriser\Ecomerce;
 /**
 * return hello
 */
