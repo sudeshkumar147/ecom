@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4" : {
-            "Eriser\\Ecomerce" : "src/"
+            "Eriser\\Ecomerce\\" : "src/"
         }
     }
 }
